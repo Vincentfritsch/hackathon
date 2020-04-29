@@ -1,8 +1,8 @@
 # "Travel from your couch" hackathon
 
-' Webcam : CSueTiJgLo8WgS54Jc8c5xZX6QX5I8jv '
-' Map Forecast : BEJn4Y9vLjc0xRQwTh3g8dd3UEdzZXRW '
-' Point Forecast : KzIAJvoO7fv0IQboxiNsAf5dgkZYuZ5C '
+' Webcam : CSueTiJgLo8WgS54Jc8c5xZX6QX5I8jv '<br>
+' Map Forecast : BEJn4Y9vLjc0xRQwTh3g8dd3UEdzZXRW '<br>
+' Point Forecast : KzIAJvoO7fv0IQboxiNsAf5dgkZYuZ5C '<br>
 
 Howdy, wilders! Remember, those are just a few usage tips and examples for the Windy&MET APIs, and as always, you should **read the docs**!
 
